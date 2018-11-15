@@ -1,5 +1,6 @@
 package demo2;
 
 public class Car {
-//Conflicting with demo2
+//Testing the conflicts from branch
+
 }
